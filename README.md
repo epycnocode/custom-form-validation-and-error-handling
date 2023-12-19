@@ -57,16 +57,5 @@ form.addEventListener('submit', (event) => {
   messageInput.nextElementSibling.textContent = '';
 });
 ```
-
-**3. Remember:**
-
-  - Use clear and concise error messages.
-  - Apply error styles to highlight invalid fields.
-  - Provide instructions for correcting errors.
-  - Test your validation and error handling on all device and browser combinations.
-
-**Bonus Tip:** Explore libraries like FormValidation.js or Parsley.js for more advanced validation rules and features.
-
-
 # Need Help?
 Need a High Converting [SaaS Landing Page](https://epyc.in/)?
